@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "productId": 5,
+    "name": "Samantha D.",
+    "date": "August 14, 2023",
+    "rating": 5,
+    "text": "I absolutely love this t-shirt! The design is unique and the fabric is so comfortable. As someone who’s always looking for stylish pieces, this one has definitely become a favorite in my wardrobe."
+  },
+  {
+    "id": 2,
+    "productId": 5,
+    "name": "Alex M.",
+    "date": "August 15, 2023",
+    "rating": 5,
+    "text": "The t-shirt exceeded my expectations! The colors are vibrant and the design is just like the picture. I especially appreciate the quality of the fabric. Definitely a great purchase!"
+  },
+  {
+    "id": 3,
+    "productId": 5,
+    "name": "Ethan R.",
+    "date": "August 16, 2023",
+    "rating": 5,
+    "text": "This t-shirt is a must-have for anyone who appreciates good design and high-quality clothing. The fit is perfect, and the colors are fantastic. I'm already thinking of getting another one!"
+  },
+  {
+    "id": 4,
+    "productId": 5,
+    "name": "Olivia P.",
+    "date": "August 17, 2023",
+    "rating": 4,
+    "text": "As someone who’s always loved products like this, I’m very happy with my purchase. The graphic looks great and the fabric is really comfortable."
+  },
+  {
+    "id": 5,
+    "productId": 5,
+    "name": "Liam K.",
+    "date": "August 18, 2023",
+    "rating": 5,
+    "text": "This t-shirt is so comfortable and stylish. The fabric is soft and the design really stands out. I’ve already received compliments from friends!"
+  },
+  {
+    "id": 6,
+    "productId": 5,
+    "name": "Ava H.",
+    "date": "August 19, 2023",
+    "rating": 5,
+    "text": "I bought this t-shirt looking for something simple and stylish, and it turned out to be exactly what I wanted. The quality is excellent and the fit is perfect."
+  },
+  {
+    "id": 7,
+    "productId": 5,
+    "name": "Noah W.",
+    "date": "August 20, 2023",
+    "rating": 5,
+    "text": "Really impressed with the quality of this shirt. It feels great to wear and the graphic gives it a very stylish look."
+  },
+  {
+    "id": 8,
+    "productId": 5,
+    "name": "Emma J.",
+    "date": "August 21, 2023",
+    "rating": 4,
+    "text": "The fit is comfortable and the design looks amazing. I would definitely recommend this shirt to anyone looking for something casual."
+  },
+  {
+    "id": 9,
+    "productId": 5,
+    "name": "William T.",
+    "date": "August 22, 2023",
+    "rating": 5,
+    "text": "Great t-shirt with excellent quality. The material is comfortable and after washing it still looks as good as new."
+  },
+  {
+    "id": 10,
+    "productId": 5,
+    "name": "Sophia B.",
+    "date": "August 23, 2023",
+    "rating": 5,
+    "text": "I love everything about this shirt. The design is simple but eye-catching, and the fit is exactly right."
+  }
+]

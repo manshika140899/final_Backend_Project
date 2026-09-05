@@ -1,0 +1,72 @@
+{
+  "price": {
+    "min": 50,
+    "max": 500
+  },
+  "colors": [
+    {
+      "name": "Green",
+      "value": "#00C12B"
+    },
+    {
+      "name": "Red",
+      "value": "#F50606"
+    },
+    {
+      "name": "Yellow",
+      "value": "#F5DD00"
+    },
+    {
+      "name": "Orange",
+      "value": "#F57900"
+    },
+    {
+      "name": "Sky Blue",
+      "value": "#00AEEF"
+    },
+    {
+      "name": "Blue",
+      "value": "#063AF5"
+    },
+    {
+      "name": "Purple",
+      "value": "#7D06F5"
+    },
+    {
+      "name": "Pink",
+      "value": "#F506A4"
+    },
+    {
+      "name": "White",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "Black",
+      "value": "#000000"
+    }
+  ],
+  "sizes": [
+    "XX-Small",
+    "X-Small",
+    "Small",
+    "Medium",
+    "Large",
+    "X-Large",
+    "XX-Large",
+    "3X-Large",
+    "4X-Large"
+  ],
+  "dressStyles": [
+    "Casual",
+    "Formal",
+    "Party",
+    "Gym"
+  ],
+  "categories": [
+    "T-shirts",
+    "Shorts",
+    "Shirts",
+    "Hoodie",
+    "Jeans"
+  ]
+}

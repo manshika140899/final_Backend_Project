@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "Gradient Graphic T-shirt",
+    "image": "/Images/tshirtimg6.png",
+    "images": [
+      "/Images/tshirtimg6.png",
+      "/Images/tshirtimg1.png",
+      "/Images/tshirtimg2.png",
+      "/Images/tshirtimg3.png"
+    ],
+    "rating": 3.5,
+    "price": 145,
+    "oldPrice": 180,
+    "discount": "-20%",
+    "colors": ["Green", "Black", "White"],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "dressStyle": "Casual"
+  },
+  {
+    "id": 2,
+    "name": "Polo with Tipping Details",
+    "image": "/Images/tshirtimg7.png",
+    "images": [
+      "/Images/tshirtimg7.png",
+      "/Images/tshirtimg4.png",
+      "/Images/tshirtimg5.png",
+      "/Images/tshirtimg8.png"
+    ],
+    "rating": 4.5,
+    "price": 120,
+    "oldPrice": 150,
+    "discount": "-20%",
+    "colors": ["Red", "White", "Black"],
+    "sizes": ["Small", "Medium", "Large"],
+    "dressStyle": "Formal"
+  },
+  {
+    "id": 3,
+    "name": "Black Striped T-shirt",
+    "image": "/Images/tshirtimg8.png",
+    "images": [
+      "/Images/tshirtimg8.png",
+      "/Images/tshirtimg1.png",
+      "/Images/tshirtimg3.png",
+      "/Images/tshirtimg6.png"
+    ],
+    "rating": 5,
+    "price": 120,
+    "oldPrice": 150,
+    "discount": "-20%",
+    "colors": ["Black", "White"],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "dressStyle": "Casual"
+  },
+  {
+    "id": 4,
+    "name": "SKINNY FIT JEANS",
+    "image": "/Images/homeimg2.png",
+    "images": [
+      "/Images/homeimg2.png",
+      "/Images/homeimg3.png",
+      "/Images/homeimg4.png",
+      "/Images/homeimg6.png"
+    ],
+    "rating": 3.5,
+    "price": 240,
+    "oldPrice": 260,
+    "discount": "-8%",
+    "colors": ["Blue", "Black"],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "dressStyle": "Casual"
+  },
+  {
+    "id": 5,
+    "name": "CHECKERED SHIRT",
+    "image": "/Images/homeimg3.png",
+    "images": [
+      "/Images/homeimg3.png",
+      "/Images/homeimg2.png",
+      "/Images/homeimg4.png",
+      "/Images/homeimg6.png"
+    ],
+    "rating": 4.5,
+    "price": 180,
+    "oldPrice": null,
+    "discount": "",
+    "colors": ["Green", "Red", "Blue"],
+    "sizes": ["Small", "Medium", "Large"],
+    "dressStyle": "Formal"
+  },
+  {
+    "id": 6,
+    "name": "SLEEVE STRIPED T-SHIRT",
+    "image": "/Images/homeimg4.png",
+    "images": [
+      "/Images/homeimg4.png",
+      "/Images/homeimg6.png",
+      "/Images/homeimg7.png",
+      "/Images/homeimg8.png"
+    ],
+    "rating": 4.5,
+    "price": 130,
+    "oldPrice": 160,
+    "discount": "-19%",
+    "colors": ["Yellow", "White", "Black"],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "dressStyle": "Casual"
+  },
+  {
+    "id": 7,
+    "name": "VERTICAL STRIPED SHIRT",
+    "image": "/Images/homeimg6.png",
+    "images": [
+      "/Images/homeimg6.png",
+      "/Images/homeimg7.png",
+      "/Images/homeimg8.png",
+      "/Images/homeimg4.png"
+    ],
+    "rating": 5,
+    "price": 212,
+    "oldPrice": 232,
+    "discount": "-9%",
+    "colors": ["Blue", "White"],
+    "sizes": ["Medium", "Large", "X-Large"],
+    "dressStyle": "Formal"
+  },
+  {
+    "id": 8,
+    "name": "COURAGE GRAPHIC T-SHIRT",
+    "image": "/Images/homeimg7.png",
+    "images": [
+      "/Images/homeimg7.png",
+      "/Images/homeimg8.png",
+      "/Images/homeimg4.png",
+      "/Images/homeimg6.png"
+    ],
+    "rating": 4,
+    "price": 145,
+    "oldPrice": null,
+    "discount": "",
+    "colors": ["Purple", "Black", "White"],
+    "sizes": ["Small", "Medium", "Large"],
+    "dressStyle": "Party"
+  },
+  {
+    "id": 9,
+    "name": "LOOSE FIT BERMUDA SHORTS",
+    "image": "/Images/homeimg8.png",
+    "images": [
+      "/Images/homeimg8.png",
+      "/Images/homeimg7.png",
+      "/Images/homeimg6.png",
+      "/Images/homeimg4.png"
+    ],
+    "rating": 3,
+    "price": 80,
+    "oldPrice": null,
+    "discount": "",
+    "colors": ["Orange", "Black", "White"],
+    "sizes": ["Medium", "Large", "X-Large"],
+    "dressStyle": "Gym"
+  }
+]
+
+

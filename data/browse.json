@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Casual",
+    "image": "/images/homeimg10.png"
+  },
+  {
+    "id": 2,
+    "name": "Formal",
+    "image": "/images/homeimg11.png"
+  },
+  {
+    "id": 3,
+    "name": "Party",
+    "image": "/images/homeimg12.png"
+  },
+  {
+    "id": 4,
+    "name": "Gym",
+    "image": "/images/homeimg13.png"
+  }
+]

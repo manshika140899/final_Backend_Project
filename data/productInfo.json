@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "productType": "Graphic T-shirt",
+    "material": "100% Premium Cotton",
+    "fit": "Regular Fit",
+    "neckType": "Round Neck",
+    "sleeveType": "Short Sleeve",
+    "style": "Casual / Everyday Wear",
+    "description": "The One Life Graphic T-shirt combines a clean modern design with everyday comfort. Made for casual styling, it features a premium feel, a comfortable regular fit, and a bold graphic that adds character to your everyday wardrobe.",
+    "productDescription": "Designed for effortless everyday wear, this graphic t-shirt is easy to pair with jeans, trousers, shorts, or sneakers. Its versatile design makes it suitable for relaxed outings, weekends, and casual occasions while maintaining a stylish look.",
+    "care": [
+      {
+        "title": "Machine Wash",
+        "description": "Wash with similar colors."
+      },
+      {
+        "title": "Do Not Bleach",
+        "description": "Avoid harsh bleaching products."
+      },
+      {
+        "title": "Dry Naturally",
+        "description": "Air dry for better fabric care."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "productType": "Graphic T-shirt",
+    "material": "100% Premium Cotton",
+    "fit": "Regular Fit",
+    "neckType": "Round Neck",
+    "sleeveType": "Short Sleeve",
+    "style": "Casual / Everyday Wear",
+    "description": "A comfortable graphic t-shirt designed for modern everyday styling.",
+    "productDescription": "Easy to style with jeans, trousers, shorts, and sneakers for a relaxed everyday look.",
+    "care": [
+      {
+        "title": "Machine Wash",
+        "description": "Wash with similar colors."
+      },
+      {
+        "title": "Do Not Bleach",
+        "description": "Avoid harsh bleaching products."
+      },
+      {
+        "title": "Dry Naturally",
+        "description": "Air dry for better fabric care."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "productType": "Graphic T-shirt",
+    "material": "100% Premium Cotton",
+    "fit": "Regular Fit",
+    "neckType": "Round Neck",
+    "sleeveType": "Short Sleeve",
+    "style": "Casual / Everyday Wear",
+    "description": "Premium everyday t-shirt with a stylish graphic design and comfortable fit.",
+    "productDescription": "A versatile piece that works well for casual outings, weekends, and everyday wear.",
+    "care": [
+      {
+        "title": "Machine Wash",
+        "description": "Wash with similar colors."
+      },
+      {
+        "title": "Do Not Bleach",
+        "description": "Avoid harsh bleaching products."
+      },
+      {
+        "title": "Dry Naturally",
+        "description": "Air dry for better fabric care."
+      }
+    ]
+  }
+]

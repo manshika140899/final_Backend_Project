@@ -1,0 +1,167 @@
+[
+  {
+    "id": "3-1788356543281",
+    "productId": 3,
+    "name": "Polo with Tipping Details",
+    "image": "http://localhost:4000/images/tshirtimg7.png",
+    "size": "Large",
+    "color": "green",
+    "price": 120,
+    "quantity": 3,
+    "discount": 20
+  },
+  {
+    "id": "4-1788356552821",
+    "productId": 4,
+    "name": "Black Striped T-shirt",
+    "image": "http://localhost:4000/images/tshirtimg8.png",
+    "size": "Large",
+    "color": "green",
+    "price": 120,
+    "quantity": 2,
+    "discount": 30
+  },
+  {
+    "id": "2-1788356560488",
+    "productId": 2,
+    "name": "Gradient Graphic T-shirt",
+    "image": "http://localhost:4000/images/tshirtimg6.png",
+    "size": "Large",
+    "color": "green",
+    "price": 145,
+    "quantity": 1,
+    "discount": 0
+  },
+  {
+    "id": "1-1788356567965",
+    "productId": 1,
+    "name": "Polo with Contrast Trims",
+    "image": "http://localhost:4000/images/tshirtimg5.png",
+    "size": "Large",
+    "color": "green",
+    "price": 212,
+    "quantity": 1,
+    "discount": 20
+  },
+  {
+    "id": "3-1788373960061",
+    "productId": 3,
+    "name": "Loose Fit Bermuda Shorts",
+    "image": "/Images/homeimg8.png",
+    "size": "Large",
+    "color": "green",
+    "price": 80,
+    "quantity": 1,
+    "discount": 0
+  },
+  {
+    "id": "4-1788374110717",
+    "productId": 4,
+    "name": "SKINNY FIT JEANS",
+    "image": "/Images/homeimg2.png",
+    "size": "Large",
+    "color": "green",
+    "price": 240,
+    "quantity": 1,
+    "discount": 8
+  },
+  {
+    "id": "1-1788375277729",
+    "productId": 1,
+    "name": "T-shirt with Tape Details",
+    "image": "/Images/homeimg2.png",
+    "size": "Large",
+    "color": "green",
+    "price": 120,
+    "quantity": 1,
+    "discount": 0
+  },
+  {
+    "id": "default-1788376922072",
+    "productId": "default",
+    "name": "One Life Graphic T-shirt",
+    "image": "/Images/tshirtimg1.png",
+    "size": "Large",
+    "color": "green",
+    "price": 260,
+    "quantity": 1,
+    "discount": 40
+  },
+  {
+    "id": "default-1788376956485",
+    "productId": "default",
+    "name": "One Life Graphic T-shirt",
+    "image": "/Images/tshirtimg1.png",
+    "size": "Small",
+    "color": "green",
+    "price": 260,
+    "quantity": 1,
+    "discount": 40
+  },
+  {
+    "id": "2-1788376996032",
+    "productId": 2,
+    "name": "Polo with Tipping Details",
+    "image": "/Images/tshirtimg7.png",
+    "size": "Large",
+    "color": "green",
+    "price": 120,
+    "quantity": 1,
+    "discount": 20
+  },
+  {
+    "id": "2-1788377101417",
+    "productId": 2,
+    "name": "Gradient Graphic T-shirt",
+    "image": "http://localhost:4000/images/tshirtimg6.png",
+    "size": "Large",
+    "color": "green",
+    "price": 145,
+    "quantity": 1,
+    "discount": 0
+  },
+  {
+    "id": "2-1788377113300",
+    "productId": 2,
+    "name": "Gradient Graphic T-shirt",
+    "image": "http://localhost:4000/images/tshirtimg6.png",
+    "size": "Large",
+    "color": "black",
+    "price": 145,
+    "quantity": 1,
+    "discount": 0
+  },
+  {
+    "id": "default-1788454446331",
+    "productId": "default",
+    "name": "One Life Graphic T-shirt",
+    "image": "/Images/tshirtimg1.png",
+    "size": "Large",
+    "color": "green",
+    "price": 260,
+    "quantity": 1,
+    "discount": 40
+  },
+  {
+    "id": "5-1788472115305",
+    "productId": 5,
+    "name": "CHECKERED SHIRT",
+    "image": "/Images/homeimg3.png",
+    "size": "Large",
+    "color": "green",
+    "price": 180,
+    "quantity": 1,
+    "discount": 0
+  },
+  {
+    "id": "2-1788595462863",
+    "productId": 2,
+    "name": "Skinny Fit Jeans",
+    "image": "/Images/homeimg3.png",
+    "size": "Large",
+    "color": "green",
+    "price": 240,
+    "quantity": 1,
+    "discount": 20
+  }
+]

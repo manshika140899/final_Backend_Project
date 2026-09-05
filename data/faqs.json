@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "question": "What sizes are available for this t-shirt?",
+    "answer": "This t-shirt is available in Small, Medium, Large, and X-Large sizes. Please check the size guide before placing your order."
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "question": "What material is the t-shirt made from?",
+    "answer": "The t-shirt is made from premium cotton designed to provide a soft, breathable, and comfortable feel for everyday wear."
+  },
+  {
+    "id": 3,
+    "productId": 1,
+    "question": "How should I wash and care for the t-shirt?",
+    "answer": "We recommend machine washing with similar colors, avoiding bleach, and air drying whenever possible to help maintain the fabric and print."
+  },
+  {
+    "id": 4,
+    "productId": 1,
+    "question": "Does the t-shirt have a regular or oversized fit?",
+    "answer": "The One Life Graphic T-shirt has a comfortable regular fit. For a looser look, consider choosing one size larger."
+  },
+  {
+    "id": 5,
+    "productId": 1,
+    "question": "Can I return or exchange this product?",
+    "answer": "Eligible items can be returned or exchanged according to the store's return policy. Please make sure the product is unused and in its original condition."
+  },
+  {
+    "id": 6,
+    "productId": 1,
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery times depend on your location and the shipping method selected during checkout. Estimated delivery information will be shown before you place the order."
+  },
+  {
+    "id": 7,
+    "productId": 1,
+    "question": "Can I track my order after it has been shipped?",
+    "answer": "Yes. Once your order has been shipped, tracking information can be provided so you can monitor your package."
+  },
+
+  {
+    "id": 8,
+    "productId": 2,
+    "question": "What sizes are available for this product?",
+    "answer": "This product is available in Small, Medium, Large, and X-Large sizes."
+  },
+  {
+    "id": 9,
+    "productId": 2,
+    "question": "What material is this product made from?",
+    "answer": "This product is made from high-quality materials designed for comfort and durability."
+  },
+  {
+    "id": 10,
+    "productId": 2,
+    "question": "Can I return this product?",
+    "answer": "Yes. Eligible products can be returned according to the store's return policy."
+  },
+
+  {
+    "id": 11,
+    "productId": 3,
+    "question": "What sizes are available?",
+    "answer": "This product is available in Small, Medium, Large, and X-Large sizes."
+  },
+  {
+    "id": 12,
+    "productId": 3,
+    "question": "How should I care for this product?",
+    "answer": "Follow the care instructions provided with the product to maintain its quality and appearance."
+  },
+  {
+    "id": 13,
+    "productId": 3,
+    "question": "How long does delivery take?",
+    "answer": "Delivery time depends on your location and selected shipping method."
+  }
+]

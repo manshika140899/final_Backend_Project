@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "T-shirt with Tape Details",
+    "rating": "4.5/5",
+    "ratingValue": 4.5,
+    "price": "$120",
+    "oldPrice": "",
+    "discount": "",
+    "images": [
+      "/Images/homeimg2.png",
+      "/Images/homeimg2.png",
+      "/Images/homeimg2.png",
+      "/Images/homeimg2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Skinny Fit Jeans",
+    "rating": "3.5/5",
+    "ratingValue": 3.5,
+    "price": "$240",
+    "oldPrice": "$260",
+    "discount": "-20%",
+    "images": [
+      "/Images/homeimg3.png",
+      "/Images/homeimg3.png",
+      "/Images/homeimg3.png",
+      "/Images/homeimg3.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Checkered Shirt",
+    "rating": "4.5/5",
+    "ratingValue": 4.5,
+    "price": "$180",
+    "oldPrice": "",
+    "discount": "",
+    "images": [
+      "/Images/homeimg4.png",
+      "/Images/homeimg4.png",
+      "/Images/homeimg4.png",
+      "/Images/homeimg4.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sleeve Striped T-shirt",
+    "rating": "4.5/5",
+    "ratingValue": 4.5,
+    "price": "$130",
+    "oldPrice": "$160",
+    "discount": "-30%",
+    "images": [
+      "/Images/homeimg5.png",
+      "/Images/homeimg5.png",
+      "/Images/homeimg5.png",
+      "/Images/homeimg5.png"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "hero": {
+      "title": [
+        "FIND CLOTHES",
+        "THAT MATCHES",
+        "YOUR STYLE"
+      ],
+      "description": "Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.",
+      "buttonText": "Shop Now",
+      "image": "/Images/homeimg1.jpg"
+    },
+    "stats": [
+      {
+        "value": "200+",
+        "label": "International Brands"
+      },
+      {
+        "value": "2,000+",
+        "label": "High-Quality Products"
+      },
+      {
+        "value": "30,000+",
+        "label": "Happy Customers"
+      }
+    ],
+    "brands": [
+      {
+        "name": "VERSACE",
+        "className": "text-xl font-bold tracking-[-1px] sm:text-2xl md:text-3xl"
+      },
+      {
+        "name": "ZARA",
+        "className": "text-2xl font-medium tracking-[-1px] sm:text-3xl md:text-4xl"
+      },
+      {
+        "name": "GUCCI",
+        "className": "text-xl font-bold tracking-[-1px] sm:text-2xl md:text-3xl"
+      },
+      {
+        "name": "PRADA",
+        "className": "text-xl font-medium italic tracking-[-1px] sm:text-2xl md:text-3xl"
+      },
+      {
+        "name": "Calvin Klein",
+        "className": "text-lg font-bold tracking-[-1px] sm:text-xl md:text-2xl"
+      }
+    ]
+  }
+]

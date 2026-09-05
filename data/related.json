@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/images/tshirtimg5.png",
+    "name": "Polo with Contrast Trims",
+    "rating": "4.0/5",
+    "price": "$212",
+    "oldPrice": "$242",
+    "discount": "-20%"
+  },
+  {
+    "id": 2,
+    "image": "/images/tshirtimg6.png",
+    "name": "Gradient Graphic T-shirt",
+    "rating": "3.5/5",
+    "price": "$145",
+    "oldPrice": "$180",
+    "discount": ""
+  },
+  {
+    "id": 3,
+    "image": "/images/tshirtimg7.png",
+    "name": "Polo with Tipping Details",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$150",
+    "discount": "-20%"
+  },
+  {
+    "id": 4,
+    "image": "/images/tshirtimg8.png",
+    "name": "Black Striped T-shirt",
+    "rating": "5.0/5",
+    "price": "$120",
+    "oldPrice": "$150",
+    "discount": "-30%"
+  }
+]
